@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[37742,["/fisheye/_next/static/chunks/0_b1ei65f9xsc.js","/fisheye/_next/static/chunks/0n4z.7yu76je-.js","/fisheye/_next/static/chunks/0-tghavo7dmwe.js","/fisheye/_next/static/chunks/01i0y7q2-e-h7.js","/fisheye/_next/static/chunks/0r-~_czc077t~.js"],"LagoaDetail"]
+3:I[97367,["/fisheye/_next/static/chunks/0_b1ei65f9xsc.js","/fisheye/_next/static/chunks/0n4z.7yu76je-.js","/fisheye/_next/static/chunks/0-tghavo7dmwe.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"slug":"quadros"}],[["$","script","script-0",{"src":"/fisheye/_next/static/chunks/01i0y7q2-e-h7.js","async":true}],["$","script","script-1",{"src":"/fisheye/_next/static/chunks/0r-~_czc077t~.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"9X-CcQCUSn-Io6AE80F2P"}
+5:null
